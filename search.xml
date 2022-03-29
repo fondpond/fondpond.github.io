@@ -1,47 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/03/28/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>newsletter 20220207-20220215</title>
     <url>/2022/02/15/nl1/</url>
-    <content><![CDATA[<span id="more"></span>
+    <content><![CDATA[<p>20220207-20220215<br>在我訂閱的newsletter中，只有部分能正常收到，剩下的要麽在垃圾箱裏，要麽我也不知道在哪裏。有幾個發完確認訂閱郵件後就從我的信箱消失了，說好的日報和周報全變成了我的福報。<br>我不知道標準是什麽，大概只是運氣，不然很難解釋為什麽財新在垃圾箱裏而cup卻每早7點準時報到。</p>
+<span id="more"></span>
 <p><img src="/2022/02/15/nl1/1.jpg"><br><img src="/2022/02/15/nl1/2.jpg"><br><img src="/2022/02/15/nl1/3.jpg"><br><img src="/2022/02/15/nl1/4.jpg"><br><img src="/2022/02/15/nl1/5.jpg"><br><img src="/2022/02/15/nl1/6.jpg"><br><img src="/2022/02/15/nl1/7.jpg"><br><img src="/2022/02/15/nl1/8.jpg"><br><img src="/2022/02/15/nl1/9.jpg"><br><img src="/2022/02/15/nl1/10.jpg"><br><img src="/2022/02/15/nl1/11.jpg"><br><img src="/2022/02/15/nl1/12.jpg"><br><img src="/2022/02/15/nl1/13.jpg"></p>
 ]]></content>
       <categories>
         <category>-newsletter</category>
       </categories>
       <tags>
-        <tag>-民主 -Covid-19 -冬奥 -女性</tag>
+        <tag>民主</tag>
+        <tag>Covid-19</tag>
+        <tag>冬奥</tag>
+        <tag>女性</tag>
       </tags>
   </entry>
   <entry>
     <title>newsletter 20220216-20220220</title>
     <url>/2022/02/21/nl2/</url>
-    <content><![CDATA[<span id="more"></span>
+    <content><![CDATA[<p>20220216-20220220<br>連著讀了4個多小時，終於讀完了積壓三周的newsletter……</p>
+<span id="more"></span>
 <p><img src="/2022/02/21/nl2/1.jpg"><br><img src="/2022/02/21/nl2/2.jpg"><br><img src="/2022/02/21/nl2/3.jpg"><br><img src="/2022/02/21/nl2/4.jpg"><br><img src="/2022/02/21/nl2/5.jpg"><br><img src="/2022/02/21/nl2/6.jpg"><br><img src="/2022/02/21/nl2/7.jpg"><br><img src="/2022/02/21/nl2/8.jpg"><br><img src="/2022/02/21/nl2/9.jpg"><br><img src="/2022/02/21/nl2/10.jpg"><br><img src="/2022/02/21/nl2/11.jpg"><br><img src="/2022/02/21/nl2/12.jpg"><br><img src="/2022/02/21/nl2/13.jpg"></p>
 ]]></content>
       <categories>
         <category>-newsletter</category>
       </categories>
       <tags>
-        <tag>-冬奥 -Covid-19 -缅甸 -女性</tag>
+        <tag>Covid-19</tag>
+        <tag>冬奥</tag>
+        <tag>女性</tag>
+        <tag>缅甸</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>newsletter 20220221-20220313</title>
+    <url>/2022/03/13/nl3/</url>
+    <content><![CDATA[<p>20220221-20220313</p>
+<span id="more"></span>
+<p><img src="/2022/03/13/nl3/1.jpg"><br><img src="/2022/03/13/nl3/2.jpg"><br><img src="/2022/03/13/nl3/3.jpg"><br><img src="/2022/03/13/nl3/4.jpg"><br><img src="/2022/03/13/nl3/5.jpg"><br><img src="/2022/03/13/nl3/6.jpg"><br><img src="/2022/03/13/nl3/7.jpg"><br><img src="/2022/03/13/nl3/8.jpg"><br><img src="/2022/03/13/nl3/9.jpg"><br><img src="/2022/03/13/nl3/10.jpg"><br><img src="/2022/03/13/nl3/11.jpg"><br><img src="/2022/03/13/nl3/12.jpg"></p>
+]]></content>
+      <categories>
+        <category>-newsletter</category>
+      </categories>
+      <tags>
+        <tag>女性</tag>
+        <tag>台湾</tag>
+        <tag>二·二八事件</tag>
+        <tag>俄乌</tag>
+        <tag>电影</tag>
+        <tag>香港</tag>
+        <tag>反送中</tag>
       </tags>
   </entry>
   <entry>
@@ -49,18 +59,5 @@
     <url>/2022/03/28/test/</url>
     <content><![CDATA[<p>Hello World</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>newsletter 20220221-20220313</title>
-    <url>/2022/03/13/nl3/</url>
-    <content><![CDATA[<span id="more"></span>
-<p><img src="/2022/03/13/nl3/1.jpg"><br><img src="/2022/03/13/nl3/2.jpg"><br><img src="/2022/03/13/nl3/3.jpg"><br><img src="/2022/03/13/nl3/4.jpg"><br><img src="/2022/03/13/nl3/5.jpg"><br><img src="/2022/03/13/nl3/6.jpg"><br><img src="/2022/03/13/nl3/7.jpg"><br><img src="/2022/03/13/nl3/8.jpg"><br><img src="/2022/03/13/nl3/9.jpg"><br><img src="/2022/03/13/nl3/10.jpg"><br><img src="/2022/03/13/nl3/11.jpg"><br><img src="/2022/03/13/nl3/12.jpg"></p>
-]]></content>
-      <categories>
-        <category>-newsletter</category>
-      </categories>
-      <tags>
-        <tag>-台湾 -二·二八事件 -俄乌 -电影 -女性 -香港 -反送中</tag>
-      </tags>
   </entry>
 </search>
