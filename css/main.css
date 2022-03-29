@@ -2908,6 +2908,10 @@ body {
   background-attachment: fixed;
   background-size: 100%;
   background-position: center;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
 }
 .post-block {
   opacity: 0.9;
